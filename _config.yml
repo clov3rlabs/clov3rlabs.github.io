@@ -1,0 +1,12 @@
+# Site settings
+title: Clov3r Labs
+email: info@clov3rlabs.com
+description: |
+  A <strong>mobile, web and desk</strong> development studio
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://clov3rlabs.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+gems: []
