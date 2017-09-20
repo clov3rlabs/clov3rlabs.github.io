@@ -9,4 +9,8 @@ url: "http://clov3rlabs.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
-gems: []
+plugins: []
+
+sass:
+    style: compressed
+
